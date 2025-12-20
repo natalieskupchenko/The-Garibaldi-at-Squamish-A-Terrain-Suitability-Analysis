@@ -1,2 +1,2 @@
 # The-Garibaldi-at-Squamish-A-Terrain-Suitability-Analysis
-Term project for GEOS 270 at UBC 
+View the story map here: https://arcg.is/1uHf1C4 
