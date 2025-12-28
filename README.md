@@ -6,4 +6,4 @@ https://arcg.is/1uHf1C4
 
 ## PDF Version
 Download the full PDF report here:  
-[The Garibaldi at Squamish: A Terrain Suitability Analysis (PDF)](pdf_storymap.pdf)
+[The Garibaldi at Squamish: A Terrain Suitability Analysis (PDF)](PDF_StoryMap.pdf)
