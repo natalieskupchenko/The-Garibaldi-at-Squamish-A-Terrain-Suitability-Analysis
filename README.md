@@ -17,7 +17,7 @@ This project applies **constraint-based spatial modeling** to assess development
 
 **Research Question:** Given environmental protection requirements and climate constraints, what percentage of the proposed resort area is actually viable for development?
 
-**Key Finding:** Only **32%** of the proposed 2,847-hectare area meets both climate suitability and environmental protection criteria—significantly less than project proponents suggest.
+**Key Finding:** Only **32%** of the proposed project area meets both climate suitability and environmental protection criteria—significantly less than project proponents suggest.
 
 ### Why This Matters
 
@@ -186,7 +186,7 @@ The Garibaldi at Squamish proposal claims the area can support 124 ski trails, 2
 If continuing this project, I would:
 1. Conduct temporal analysis of snowpack data (past 50 years)
 2. Model future snow conditions under climate scenarios
-3. Perform economic analysis: does 912 viable hectares support 2,500 jobs?
+3. Perform economic analysis: does only 32% of viable terrain in the project area support 2,500 jobs?
 4. Analyze infrastructure costs (roads, lifts) in remaining viable terrain
 5. Compare to other ski resort proposals rejected/approved in BC
 
