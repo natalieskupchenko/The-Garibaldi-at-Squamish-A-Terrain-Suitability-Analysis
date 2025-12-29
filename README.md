@@ -222,5 +222,3 @@ Key processing steps:
 3. Create attribute-calculated buffers for streams
 4. Union all protection layers
 5. Overlay climate suitability with environmental constraints
-
---
