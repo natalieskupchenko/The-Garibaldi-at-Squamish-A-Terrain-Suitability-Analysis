@@ -25,21 +25,6 @@ The Garibaldi at Squamish proposal claims the area can support 124 ski trails, 2
 
 ---
 
-## Project Context
-
-I chose to extend Lab 5 (Environmental Impact Assessment) rather than start a completely new project because:
-1. The dataset was rich enough for deeper analysis
-2. The environmental/economic trade-offs presented a realistic planning scenario
-3. I could add spatial visualization and comparison analysis (e.g., benchmarking against Whistler Blackcomb)
-
-**Extensions beyond the original lab:**
-- Created interactive Story Map for public communication (lab only required static PDF maps)
-- Added comparative terrain analysis (expert terrain vs. Whistler)
-- Analyzed avalanche terrain safety within alpine areas
-- Structured the analysis as a decision-support tool rather than just a technical report
-
----
-
 ## Technical Approach
 
 ### Data Sources (7 spatial datasets)
@@ -110,17 +95,17 @@ I chose to extend Lab 5 (Environmental Impact Assessment) rather than start a co
 
 ### Quantitative Findings
 
-| Constraint Type | Area (hectares) | % of Total Project Area |
-|----------------|-----------------|------------------------|
-| **Total Project Area** | 2,847 | 100% |
-| Below 600m elevation (climate risk) | 911 | 32% |
-| Fish/riparian habitat | 797 | 28% |
-| Wildlife winter range | 228 | 8% |
-| Old growth forest | 199 | 7% |
-| **Total Protected Area*** | 1,110 | 39% |
-| **Viable & Unprotected** | **912** | **32%** |
+| Constraint Type | % of Total Project Area |
+|----------------|------------------------|
+| Fish/riparian habitat | 28% |
+| Wildlife winter range | 8% |
+| Old growth forest | 7% |
+| **Total Protected Area*** | **39%** |
+| Below 600m elevation (climate risk) | 32% |
+| Above 600m (climate suitable) | 68% |
+| **Viable & Unprotected** | **32%** |
 
-*Note: Total protected area is less than sum of individual protections due to overlapping zones*
+*Note: Total protected area (39%) is less than sum of individual protections (28% + 8% + 7% = 43%) due to overlapping zones*
 
 ### Contextual Analysis
 
@@ -176,7 +161,7 @@ I chose to extend Lab 5 (Environmental Impact Assessment) rather than start a co
 
 ---
 
-## What I Learned
+## Learning Outcomes
 
 ### Technical Skills
 - How to acquire and integrate spatial data from multiple government sources
