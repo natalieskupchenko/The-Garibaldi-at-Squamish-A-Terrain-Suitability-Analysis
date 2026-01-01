@@ -9,6 +9,10 @@
 
 **Download the full PDF report here: [The Garibaldi at Squamish: A Terrain Suitability Analysis (PDF)](PDF_StoryMap.pdf)**
 
+**Executive Summary**:
+This project evaluates the development feasibility of the proposed Garibaldi at Squamish ski resort using constraint-based spatial analysis. By integrating climate suitability and environmental protection layers, the analysis finds that only 32% of the proposed area is viable for development under current constraints.
+
+
 ---
 
 ## Project Overview
